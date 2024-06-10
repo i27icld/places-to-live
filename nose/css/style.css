@@ -1,0 +1,47 @@
+body{
+    background-color: bisque;
+    text-align: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    background-color: aquamarine;
+    text-align: flex-start;
+    justify-content: center;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    background-color: aquamarine;
+    text-align: flex-start;
+    justify-content: center;
+}
+
+.card{
+    margin: 20px;
+}
+
+footer{
+    background-color: black;
+    color: bisque;
+    align-items: end;
+}
+
+.sectionn{
+    display: inline-block;
+}
+
+li{
+    list-style-type: none;
+}
+
+.imagenn{
+    width: 20px;
+}
